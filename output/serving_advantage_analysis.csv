@@ -1,0 +1,15 @@
+metric,value,description
+Individual Serving Advantage (Average),0.001,Average advantage for individual players when serving vs receiving
+Individual Measurements,116,Total individual player measurements
+Positive Advantages,57 (49.1%),Players who perform better when serving
+Negative Advantages,59 (50.9%),Players who perform better when receiving
+Overall Serving Win Rate,0.514,Overall win rate when serving
+Overall Receiving Win Rate,0.486,Overall win rate when receiving
+Overall Serving Advantage,0.028,Overall advantage of serving vs receiving
+SHORT_SERVICE Individual Advantage,0.004,Individual serving advantage for short_service (n=94)
+LONG_SERVICE Individual Advantage,0.003,Individual serving advantage for long_service (n=66)
+opponent hits out of bounds Individual Advantage,0.049,Individual serving advantage for rallies ending in opponent hits out of bounds (n=114)
+shuttle hits opponents court Individual Advantage,-0.004,Individual serving advantage for rallies ending in shuttle hits opponents court (n=116)
+opponent hits net Individual Advantage,-0.036,Individual serving advantage for rallies ending in opponent hits net (n=116)
+opponent hits into net Individual Advantage,-0.017,Individual serving advantage for rallies ending in opponent hits into net (n=98)
+opponent misjudged in court Individual Advantage,0.051,Individual serving advantage for rallies ending in opponent misjudged in court (n=52)
